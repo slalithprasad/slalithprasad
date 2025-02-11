@@ -27,9 +27,9 @@ I'm **S Lalith Prasad**, a Full-Stack .NET Developer with experience since Octob
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
+![MS SQL](https://img.shields.io/badge/MS%20SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
-![DevOps](https://img.shields.io/badge/DevOps-A82D22?style=for-the-badge&logo=azuredevops&logoColor=white)   
+![DevOps](https://img.shields.io/badge/DevOps-A82D22?style=for-the-badge&logo=azuredevops&logoColor=white)  
 
 ---
 
