@@ -15,8 +15,8 @@ I'm **S Lalith Prasad**, a Full-Stack .NET Developer with experience since Octob
 - 🔹 Expanding **DocumentIntelligence** to include more document types.
 
 ### 🌱 I’m Currently learning
-- 🔹**System Design**  
-- 🔹**DevOps**
+- 🔹 **System Design**  
+- 🔹 **DevOps**
 
 ---
 
