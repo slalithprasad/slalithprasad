@@ -18,7 +18,7 @@ I'm **S Lalith Prasad**, a Full-Stack .NET Developer with experience since Octob
 ---
 
 ### 🤝 Let’s Connect
-- 💬 Ask me about **.NET, Azure, React.js, and building scalable systems**  
+- 💬 Ask me about **.NET, Azure, and building scalable systems**  
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/s-lalith-prasad-4ab13b248/)  
 
 ⚡ Fun Fact: I love brainstorming startup ideas and exploring new business opportunities outside tech!
