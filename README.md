@@ -19,7 +19,7 @@ I'm **S Lalith Prasad**, a Full-Stack .NET Developer with experience since Octob
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slalithprasad&layout=compact&theme=tokyonight)
 
-![Lalith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=slalithprasad&show_icons=true&theme=tokyonight)
+<!-- ![Lalith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=slalithprasad&show_icons=true&theme=tokyonight) -->
 
 ---
 
