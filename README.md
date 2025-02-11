@@ -6,7 +6,7 @@ I'm **S Lalith Prasad**, a Full-Stack .NET Developer with experience since Octob
 
 ### My Development Stack 
 
-[![My Skills](https://skillicons.dev/icons?i=csharp,dotnet,sqlserver,mongodb,azure,markdown,git,github,vscode&perline=2)](#)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,mysql,mongodb,azure,git,js,html,css&perline=3)](#)
 
 
 ### 🔭 I’m currently working on 
