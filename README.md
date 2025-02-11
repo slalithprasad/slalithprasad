@@ -14,10 +14,6 @@ I'm **S Lalith Prasad**, a Full-Stack .NET Developer with experience since Octob
 - 🔹 Expanding **QueryX** to support more databases and file formats.  
 - 🔹 Expanding **DocumentIntelligence** to include more document types.
 
-### 🌱 I’m Currently learning
-- 🔹 **System Design**  
-- 🔹 **DevOps**
-
 ---
 
 ### 📊 Activity
