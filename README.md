@@ -11,8 +11,7 @@ I'm **Lalith**, a Full-Stack .NET Developer with experience since October 2019. 
 
 ### 🔭 I’m currently working on 
 
-- 🔹 Expanding **QueryX** to support more databases and file formats.  
-- 🔹 Expanding **DocumentIntelligence** to include more document types.
+- 🔹 Expanding **QueryX** to support more databases and file formats.
 
 ---
 
