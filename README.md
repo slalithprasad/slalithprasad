@@ -6,7 +6,7 @@ I'm **Lalith**, a Full-Stack .NET Developer with experience since October 2019. 
 
 ### My Development Stack 
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,azure,git,mysql,mongodb&perline=5)](#)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,azure,git,mysql,mongodb&perline=3)](#)
 
 
 ### 🔭 I’m currently working on 
