@@ -28,4 +28,4 @@ I'm **S Lalith Prasad**, a Full-Stack .NET Developer with experience since Octob
 
 ### 🤝 Let’s Connect  
 
-I’m always happy to learn, share, and connect! If you’d like to discuss **.NET, Azure, DevOps, or building scalable systems**, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/s-lalith-prasad-4ab13b248/).
+I’m always happy to learn, share, and connect! If you’d like to discuss anything related to tech, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/s-lalith-prasad-4ab13b248/).
