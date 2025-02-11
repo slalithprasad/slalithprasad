@@ -4,9 +4,9 @@ I'm **S Lalith Prasad**, a Full-Stack .NET Developer with experience since Octob
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**  
+### My Development Stack 
 
-[![My Skills](https://skillicons.dev/icons?i=c#,.net,mssql,mongodb,md,git,github,vscode,&perline=2)](#)
+[![My Skills](https://skillicons.dev/icons?i=csharp,dotnet,mssql,mongodb,azure,markdown,git,github,vscode&perline=2)](#)
 
 
 ### 🔭 I’m currently working on 
