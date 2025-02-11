@@ -13,20 +13,12 @@ I'm **S Lalith Prasad**, a Full-Stack .NET Developer with experience since Octob
 - 🔹**System Design**  
 - 🔹**DevOps**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slalithprasad&layout=compact&theme=tokyonight)
-
-
-### ⚒️ Tech Stack  
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)  
-![SQL](https://img.shields.io/badge/MS%20SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
-![DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)  
-
 ---
 
-### 📊 GitHub Stats
+### 📊 Activity
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slalithprasad&layout=compact&theme=tokyonight)
+
 ![Lalith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=slalithprasad&show_icons=true&theme=tokyonight)
 
 ---
