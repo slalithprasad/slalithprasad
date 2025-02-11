@@ -9,11 +9,13 @@ I'm **S Lalith Prasad**, a Full-Stack .NET Developer with experience since Octob
 - 🔹 Expanding **QueryX** to support more databases and file formats.  
 - 🔹 Expanding **DocumentIntelligence** to include more document types.
 
-### 🌱 What I’m Currently Learning
-- **System Design**  
-- **DevOps**
+### 🌱 I’m Currently learning
+- 🔹**System Design**  
+- 🔹**DevOps**
 
-### ⚒️ Tech Stack  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slalithprasad&layout=compact&theme=tokyonight)
+
+
 ### ⚒️ Tech Stack  
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
@@ -21,7 +23,6 @@ I'm **S Lalith Prasad**, a Full-Stack .NET Developer with experience since Octob
 ![SQL](https://img.shields.io/badge/MS%20SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
 ![DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)  
-
 
 ---
 
@@ -32,7 +33,4 @@ I'm **S Lalith Prasad**, a Full-Stack .NET Developer with experience since Octob
 
 ### 🤝 Let’s Connect  
 
-I’m always happy to learn, share, and connect! If you’d like to discuss **.NET, Azure, DevOps, or building scalable systems**, feel free to reach out.  
-
-📫 **Find me here:**  
-🔗 [LinkedIn](https://www.linkedin.com/in/s-lalith-prasad-4ab13b248/) 
+I’m always happy to learn, share, and connect! If you’d like to discuss **.NET, Azure, DevOps, or building scalable systems**, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/s-lalith-prasad-4ab13b248/).
