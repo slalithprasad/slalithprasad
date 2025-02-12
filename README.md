@@ -8,11 +8,6 @@ I'm **Lalith**, a Full-Stack .NET Developer with experience since October 2019. 
 
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,azure,git,mysql,mongodb&perline=6)](#)
 
-
-### 🔭 I’m currently working on 
-
-🔹 Expanding **QueryX** to support more databases and file formats.
-
 ---
 
 ### 📊 Activity
