@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Lalith**, a Full-Stack .NET Developer with experience since October 2019. I specialize in building scalable applications using **.NET & Azure**, ensuring high performance, reliability, and a seamless development experience.
+I'm Lalith, a Full-Stack .NET Developer from India. I love building fun and useful apps with .NET & Azure.
 
 ---
 
