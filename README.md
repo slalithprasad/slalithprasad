@@ -24,4 +24,4 @@ I'm Lalith, a Full-Stack .NET Developer from India. I love building fun and usef
 
 ### 🤝 Let’s Connect  
 
-I’m always happy to learn, share, and connect! If you’d like to discuss anything related to tech, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/s-lalith-prasad-4ab13b248/).
+I’m always happy to learn, share, and connect! If you’d like to discuss anything related to tech, feel free to reach out on [![](https://img.shields.io/badge/-LinkedIN-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s-lalith-prasad-4ab13b248/)
