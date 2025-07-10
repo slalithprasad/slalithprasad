@@ -6,7 +6,7 @@ I'm Lalith, a Full-Stack .NET Developer from India. I love building fun and usef
 
 ### My Development Stack 
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,sqlserver,mongo,azure&perline=5)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,sqlserver,postgres,mongo,azure,docker&perline=5)
 
 ---
 
